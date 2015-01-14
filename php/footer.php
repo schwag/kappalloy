@@ -41,7 +41,7 @@
         <div class="container">
             <footer>
                 <div class="col-md-6">
-                    <p><small>© 2014 RDL Supply, All Rights Reserved  | 11240 Gemini Lane Dallas , TX 75229 USA</small></p>
+                    <p><small>© 2015 Kapp Alloy & Wire, Inc. All Rights Reserved | PO Box 1188,  Oil City, PA 16301</small></p>
                 </div>
                 <div class="myriadCore col-md-6">
                     <p><small>Developed By: <a href="http://www.myriadcore.com/" target="_blank">Myriad Core</a></small></p>

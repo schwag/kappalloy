@@ -4,28 +4,17 @@
 
 <?php include "php/nav.php";?>
 
-
-<section class="jumboSlide">
-   <!-- <div class="container">-->
-
-    <?php include 'slider.php'; ?>
-
-   <!-- </div>-->
-</section>
-
-
             <section class="grayBackground">
                 <div class="container">
                      <div class="row">
-                        <div class="sherrieSection">
+                        <div class="destinationSection">
                             <div class="col-md-12">
-                                <div class="sherrieBox">
+                                <div class="destinationArea">
                                   <div class="row">
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
-                                        <img src="img/doors_example.png" alt""="" class="img-responsive">
+                                        <img src="img/.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <h4>Doors</h4>
                                           <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                           <p><a href="http://mcsit.es/rdl-supply/doors.php" class="btn btn-block" role="button">View Products</a></p>
                                         </div>
@@ -33,9 +22,8 @@
                                     </div>
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
-                                        <img src="img/frames_example.png" alt""="" class="img-responsive">
+                                        <img src="img/.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <h4>Frames</h4>
                                           <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                           <p><a href="http://mcsit.es/rdl-supply/frames.php" class="btn btn-block" role="button">View Products</a></p>
                                         </div>
@@ -43,9 +31,8 @@
                                     </div>
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
-                                        <img src="img/hardware_example.png" alt""="" class="img-responsive">
+                                        <img src="img/.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <h4>Hardware</h4>
                                           <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                                           <p><a href="http://mcsit.es/rdl-supply/hardware.php" class="btn btn-block" role="button">View Products</a></p>
                                         </div>
