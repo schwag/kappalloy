@@ -38,18 +38,16 @@ h4, .h4 {
 .navbar{
 	background-color: #0d3a53;
 	margin-top: 40px;
+	height: 107px;
 }
 .navbar-inverse .navbar-nav>li>a:hover {
-	color: #ffffff;
-	background-color: #669940;
+	color: #669940;
 }
 .navbar-inverse .navbar-nav>li>a:active {
-	color: #ffffff;
-	background-color: #669940;
+	color: #669940;
 }
 .navbar-inverse .navbar-nav>li>a:focus {
-	color: #ffffff;
-	background-color: #669940;
+	color: #669940;
 }
 .navbar-inverse .navbar-nav>li>a{
 	color: #ffffff;
