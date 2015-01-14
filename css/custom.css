@@ -206,7 +206,7 @@ h4, .h4 {
 }
 .thumbnail>img, .thumbnail a>img{
 	border-radius: 10px;
-	margin: 0px;
+	margin: 10px;
 }
 .btn-info {
 	color: #ffffff;

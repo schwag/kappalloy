@@ -4,7 +4,6 @@
                         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Link</a></li>
                                         <li><a href="#">Home</a></li>
                                         <li><a href="#">Solder Direct</a></li>
                                         <li><a href="#">Babbitt Direct</a></li>
@@ -17,23 +16,20 @@
                         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Facebook</a></li>
-                                        <li><a href="#">Twitter</a></li>
-                                        <li><a href="#">Linkedin</a></li>
+                                        <li><a href="#"><img src="img/facebook-48.png" width="15px" height="15px"> Facebook</a></li>
+                                        <li><a href="#"><img src="img/twitter-48.png" width="15px" height="15px"> Twitter</a></li>
+                                        <li><a href="#"><img src="img/linkedin-48.png" width="15px" height="15px"> Linkedin</a></li>
                                     </ol> 
                             </div>
                          </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Link</a></li>
                                         <li>Kapp Alloy & Wire Inc.</li>
                                         <li>1 Klein Street</li>
                                         <li>Oil City, PA 16301</li>
+                                        <li><a href="tel:1-814-676-0613" style="color: #669940; font-size: 22px;">(814) 676-0613</a></li>
                                     </ol> 
-                                    <ol>
-                                        <li><a href="#">Number</a></li>
-                                    </ol>
                             </div>
                          </div>
             </div>

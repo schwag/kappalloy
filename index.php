@@ -43,7 +43,7 @@
                                       <div class="thumbnail">
                                         <img src="img/solderdirectlogo.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies.</p>
                                           <p><a href="#" class="btn btn-default" role="button">View Products</a></p>
                                         </div>
                                       </div>
@@ -52,7 +52,7 @@
                                       <div class="thumbnail">
                                         <img src="img/babbittdirectlogo.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies.</p>
                                           <p><a href="#" class="btn btn-default" role="button">View Products</a></p>
                                         </div>
                                       </div>
@@ -61,7 +61,7 @@
                                       <div class="thumbnail">
                                         <img src="img/spraywiredirectlogo.png" alt""="" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies.</p>
                                           <p><a href="#" class="btn btn-default" role="button">View Products</a></p>
                                         </div>
                                       </div>
