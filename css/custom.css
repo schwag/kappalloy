@@ -22,6 +22,7 @@ h4, .h4 {
 	text-align: center;
 	color: #5A5A5A;
 	font-weight: bold;
+	margin: 10px;
 }
 .officialNavigation{
 	margin: 0px;
@@ -351,11 +352,10 @@ blockquote {
 	margin: 0px;
 }
 .productsAccordion{
-	background-color: #ffffff;
-	padding: 10px 20px 20px 20px;
-	margin: 10px 0px 10px 0px;	
-	border-radius: 10px;
-	/*border: 2px solid #C59238;*/
+	margin: 10px;
+}
+.panel-group {
+ margin-bottom: 0px;
 }
 .faqSection{
 	background-color: #ffffff;
@@ -526,8 +526,8 @@ color: #C59238;
 }
 .panel-default>.panel-heading {
 	color: #ffffff;
-	background-color: #C59238;
-	/*border: 1px solid #101010;*/
+	background-color: #0d3a53;
+	border-radius: 4px;
 }
 .panel-title>a {
 	color: #ffffff;

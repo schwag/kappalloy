@@ -92,8 +92,15 @@
                 <div class="container">
                             <div class="row">
                                 <div class="introBox">
-                                    <div class="col-md-12">
-
+                                    <div class="col-md-6">
+                                      <div class="productsAccordion">
+                                          <?php include "php/learn-more-accordion-one.php";?>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                      <div class="productsAccordion">
+                                          <?php include "php/learn-more-accordion-two.php";?>
+                                      </div>
                                     </div>
                                 </div>
                             </div>
