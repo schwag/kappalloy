@@ -27,7 +27,7 @@
                         </div>
                         <div class="collapse navbar-collapse" id="collapse">
                             <ul class="nav navbar-nav">
-                                <li class="logoLink"><a href="http://mcsit.es/rdl-supply/"><img src="img/logo.png" width="150" height="80"alt="RDL Supply" class="img-responsive"></a></li>
+                                <a class="navbar-brand" href="#"><img src="img/logo.png" width="150" height="80"alt="Kapp Alloy & Wire, Inc." class="img-responsive"></a>
                                 <li><a href="#">SOLDER DIRECT</a></li>
                                 <li><a href="#">BABBITT DIRECT</a></li>
                                 <li><a href="#">SPRAYWIRE DIRECT</a></li>
