@@ -3,9 +3,16 @@
                 <section class="whitetopBackground navbar-fixed-top">
                     <div class="container whiteSocial">
                         <div class="row topSocial">
-                            <div class="col-md-12">
-                                <p><small>Test</small></p>
-                            </div>
+        <div class="col-sm-3 col-md-3 pull-right">
+        <form class="navbar-form" role="search">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+        </div>
+        </form>
+        </div>
                         </div>
                     </div>
                 </section>

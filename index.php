@@ -24,7 +24,7 @@
                                 <div class="titleBox">
                                     <div class="col-md-12">
                                         <div class="titles">
-                                            <h4>To purchase or learn more about all Kapp Alloy and Wire products click the Solder Direct, Babbitt Direct or Spray Wire Direct links below.</h4>
+                                          <h4>To purchase or learn more about all Kapp Alloy and Wire products click the Solder Direct, Babbitt Direct or Spray Wire Direct links below.</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -80,7 +80,8 @@
                                 <div class="titleBox">
                                     <div class="col-md-12">
                                         <div class="titles">
-                                            <h4>To learn more about why Kapp Alloy and Wire is the preferred source for high quality solder, Babbitt and spray wire click the links below.</h4>
+                                            <marquee behavior="scroll" direction="left"><h4>To learn more about why Kapp Alloy and Wire is the preferred source for high quality solder, Babbitt and spray wire click the links below.</h4></marquee>
+                                            
                                         </div>
                                     </div>
                                 </div>

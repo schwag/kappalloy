@@ -43,7 +43,7 @@
                     <p><small>© 2015 Kapp Alloy & Wire, Inc. All Rights Reserved | PO Box 1188,  Oil City, PA 16301</small></p>
                 </div>
                 <div class="myriadCore col-md-6">
-                    <p><small>Developed By: <a href="http://www.myriadcore.com/" target="_blank">Myriad Core</a></small></p>
+                    <p><small>Built With Pride By: <a href="http://www.myriadcore.com/" target="_blank"><img src="img/mc_logo.png" class="img-responsive"></a></small></p>
                 </div>
             </footer>
 
