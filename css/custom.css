@@ -12,8 +12,8 @@ h2{
 	padding-bottom: 7px;
 }
 h3{
-	color: #336666;
-	border-bottom: 1px solid #336666;
+	color: #333333;
+	border-bottom: 1px solid #333333;
 	margin-bottom: 24px;
 	padding-bottom: 7px;
 }
@@ -253,8 +253,8 @@ blockquote {
 	padding-right: 5px;
 }
 .contactInfobox{
-	background-color: #303432;
-	padding: 10px 30px 20px 30px;
+	background-color: #0D3A53;
+	padding: 10px;
 	margin: 10px 0px 10px 0px;
 	border-radius: 10px;
 	/*border: 2px solid #C59238;*/
@@ -273,11 +273,10 @@ blockquote {
 }
 .contactInfobox p{
 	color: #ffffff;
-	padding: 0px;
-	margin: 0px;
+	margin: 10px;
 }
 .contactInfobox a{
-	color: #C59238;
+	color: #669940;
 	padding: 0px;
 	margin: 0px;
 }
@@ -476,7 +475,6 @@ color: #C59238;
 }
 .jumboMap{
 	height: 315px;
-	border-bottom: 1px solid black;
 }
 .myriadCore p{
 	float: right;
@@ -536,39 +534,21 @@ color: #C59238;
 	/*border: 1px solid #303432;
 	border-bottom: 1px solid #303432;*/
 }
-/*----------------------------------Photo Hover----------------------*/
-.galleryimageBackground{
-	background-color: #ffffff;
-	padding: 4px 4px 0px 4px;
-	margin: 10px;
-}
-.galleryHover a { position: relative; display: inline-block }
 
-.galleryHover a h4 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: 0;
-    background: black;
-    color: #fff;
-    opacity:0;
-    transition:1s;
-    text-align: center;
-    padding-top: 62px;
-}
-
-.galleryHover a:hover h4 {
-    opacity:0.8;
-}
-
-/*------------------Touch Lightbox----------------------*/
 
 /*-----------------------------------Media Queries---------------------------------------*/
 
 @media (max-width: 767px) {
+	body{
+		margin-top: 108px;
+	}
 	.contactNumbers{
+		display: none;
+	}
+	.navbar-inverse .navbar-brand{
+		margin: 10px;
+	}
+	.navbar-inverse .navbar-brand img{
 		display: none;
 	}
 	.navbar {

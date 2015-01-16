@@ -8,7 +8,7 @@
 <section class="jumboMap">
    <!-- <div class="container">-->
 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6700.425186218038!2d-96.883978!3d32.892547!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c2786d79b134d%3A0xdf700260d252daa!2s11240+Gemini+Ln%2C+Dallas%2C+TX+75229!5e0!3m2!1sen!2sus!4v1410883812371" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23931.546039763063!2d-79.72052972745493!3d41.429602845523796!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8833203831a77527%3A0xd951b521592b688a!2sKapp+Alloy+%26+Wire+Inc!5e0!3m2!1sen!2sus!4v1421441322513" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
 
    <!-- </div>-->
 </section>
@@ -25,17 +25,12 @@
                             <div class="col-md-7">
                                 <div class="contactInfobox">
                                     <h3>Contact & Directions</h3>
-                                      <h4><span class="glyphicon glyphicon-time"></span> Showroom Hours</h4>
-                                          <p>Monday – Thursday 7:30am – 5:00pm</p>
-                                          <p>Friday 7:30am – 4:30pm</p>
-                                      <h4><span class="glyphicon glyphicon-map-marker"></span> Address</h4>
-                                          <p>11240 Gemini Lane</br>
-                                            Dallas, TX  75229</p>
-                                      <h4><span class="glyphicon glyphicon-phone"></span> Phone</h4>
-                                          <p>Phone: <a href="tel:214-630-3965">214.630.3965</a></p>
-                                          <p>Fax: 214-560-0326</p>
-                                      <h4><span class="glyphicon glyphicon-send"></span> Email</h4>
-                                          <p><a href="mailto:youremailaddress">SALES@RDLSUPPLY.COM</a></p>                                                                               
+                                          <p>Monday – Friday 8:30am – 4:30pm</p>
+                                          <p>1 Klein Street</br>
+                                            Oil City, PA 16301</p>
+                                          <p>Phone: <a href="tel:1-814-676-0613">(814) 676-0613</a></p>
+                                          <p>Fax: 000-000-000</p>
+                                          <p><a href="mailto:youremailaddress">info@domainname.com</a></p>                                                                               
                                 </div>
                             </div>
 

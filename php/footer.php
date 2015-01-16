@@ -40,7 +40,12 @@
         <div class="container">
             <footer>
                 <div class="col-md-6">
-                    <p><small>© 2015 Kapp Alloy & Wire, Inc. All Rights Reserved | PO Box 1188,  Oil City, PA 16301</small></p>
+                    <p><small>&copy; <?php 
+                        $startYear = 2015; 
+                        $curYear = date('Y'); 
+                        echo $startYear . (($startYear != $curYear) ? '-' . $curYear : '');
+                        ?> Kapp Alloy & Wire, Inc. All Rights Reserved | PO Box 1188,  Oil City, PA 16301</small>
+                    </p>
                 </div>
                 <div class="myriadCore col-md-6">
                     <p><small>Built With Pride By: <a href="http://www.myriadcore.com/" target="_blank"><img src="img/mc_logo.png" class="img-responsive"></a></small></p>
