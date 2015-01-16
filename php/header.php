@@ -7,7 +7,6 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-	<link href="css/lightbox.css" rel="stylesheet">
     <link href="css/jquery-reject.css" rel="stylesheet">
     
     <!--[if IE 9]>

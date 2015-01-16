@@ -80,8 +80,7 @@
                                 <div class="titleBox">
                                     <div class="col-md-12">
                                         <div class="titles">
-                                            <marquee behavior="scroll" direction="left"><h4>To learn more about why Kapp Alloy and Wire is the preferred source for high quality solder, Babbitt and spray wire click the links below.</h4></marquee>
-                                            
+                                          <h4>To learn more about why Kapp Alloy and Wire is the preferred source for high quality solder, Babbitt and spray wire click the links below.</h4>  
                                         </div>
                                     </div>
                                 </div>
