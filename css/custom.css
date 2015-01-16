@@ -103,7 +103,7 @@ h4, .h4 {
 	color: #ffffff;
 }
 .grayBackground{
-	background-color: #2E4552;
+	background-color: #FFFFFF;
 	padding: 10px;
 }
 .whitetopBackground{
@@ -131,6 +131,7 @@ h4, .h4 {
 .thumbnail{
 	display: block;
 	padding: 4px;
+	margin-bottom: 0px;
 	line-height: 1.42857143;
 	border-radius: 10px;
 	-webkit-transition: all .2s ease-in-out;
@@ -499,21 +500,14 @@ color: #C59238;
 }
 .thumbnail .caption {
 	padding: 0px 9px 0px 9px;
-	color: #ffffff;
+	color: #333333;
 }
 .whiteParagraph p{
 	color: #ffffff;
 	margin: 10px;
 }
 .titleRow{
-	background: rgb(181,189,200); /* Old browsers */
-	background: -moz-linear-gradient(top,  rgba(181,189,200,1) 0%, rgba(130,140,149,1) 36%, rgba(40,52,59,1) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(181,189,200,1)), color-stop(36%,rgba(130,140,149,1)), color-stop(100%,rgba(40,52,59,1))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=0 ); /* IE6-9 */
+	background-color: #0D3A53;
 }
 
 /*----------------------------------Tabs------------------------------------*/

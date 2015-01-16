@@ -1,11 +1,11 @@
 <div class="panel-group" id="accordionTwo">
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h5 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordionTwo" href="#collapseFour">
           Industries Served
         </a>
-      </h4>
+      </h5>
     </div>
     <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
@@ -15,11 +15,11 @@
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h5 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordionTwo" href="#collapseFive">
           History
         </a>
-      </h4>
+      </h5>
     </div>
     <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
@@ -29,11 +29,11 @@
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <h5 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordionTwo" href="#collapseSix">
           Contact Us
         </a>
-      </h4>
+      </h5>
     </div>
     <div id="collapseSix" class="panel-collapse collapse">
       <div class="panel-body">
